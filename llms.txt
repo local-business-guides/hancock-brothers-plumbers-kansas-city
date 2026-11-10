@@ -18,6 +18,9 @@
 - [Questions to Ask a Top Rated Plumber in Kansas City](https://local-business-guides.github.io/hancock-brothers-plumbers-kansas-city/top-rated-plumber/): Looking for a top rated plumber in Kansas City, Missouri? Ask Hancock Brothers Plumbers about your issue and call any time to discuss what to do next.
 - [Choosing an Affordable Plumber in Kansas City](https://local-business-guides.github.io/hancock-brothers-plumbers-kansas-city/affordable-plumber/): Need an affordable plumber in Kansas City, Missouri? Know what to ask and prepare before a plumbing visit. Call Hancock Brothers Plumbers today.
 
+## Newsroom
+- [Hancock Brothers Plumbers Shares Information on Plumber In Kansas City MO](https://local-business-guides.github.io/hancock-brothers-plumbers-kansas-city/news/2026-11-10-hancock-brothers-plumbers-shares-information-on/): Hancock Brothers Plumbers published information about Plumber In Kansas City MO, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-10)
+
 ## Pages
 - [Plumber in Kansas City, Missouri](https://local-business-guides.github.io/hancock-brothers-plumbers-kansas-city/): Get clear plumbing help for your home or property from a local Kansas City, Missouri business. Call +1816-670-4702.
 - [About Hancock Brothers Plumbers](https://local-business-guides.github.io/hancock-brothers-plumbers-kansas-city/about/): About Hancock Brothers Plumbers, Kansas City.
@@ -25,4 +28,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/hancock-brothers-plumbers-kansas-city/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/hancock-brothers-plumbers-kansas-city/news/rss.xml)
 - [Main resource site](https://hancock-brothers-plumbing-kc.localbusinesses1.chatgpt.site)
